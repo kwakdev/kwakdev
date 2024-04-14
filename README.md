@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwakdev
 - 👀 I’m interested in cologne,hockey,baseball,gaming
-- 🌱 I’m currently learning C#,C++
+- 🌱 I’m currently learning C#,C++,Web Dev
 - 📫 How to reach me email @kwakdev03@gmail.com
 
 
